@@ -1,0 +1,234 @@
+
+Method: GET | URL: / | Time: 1795106625880
+
+Method: GET | URL: / | Time: 1795106626569
+
+Method: GET | URL: /products | Time: 1795106664827
+
+Method: GET | URL: /users | Time: 1795106667685
+
+Method: GET | URL: /api/v1/users | Time: 1795106679494
+
+Method: GET | URL: /favicon.ico | Time: 1795106680113
+
+Method: GET | URL: /api/v1/users | Time: 1795106711322
+
+Method: POST | URL: /api/v1/users | Time: 1795106817351
+
+Method: POST | URL: /api/v1/users | Time: 1795106831540
+
+Method: GET | URL: /api/v1/users | Time: 1795106874230
+
+Method: GET | URL: /api/v1/users | Time: 1795109157813
+
+Method: GET | URL: /api/v1/auth/login | Time: 1795109203211
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795109210795
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795109256685
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795109370090
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795110096768
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795110480454
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795110624000
+
+Method: GET | URL: /api/v1/users | Time: 1795112337943
+
+Method: GET | URL: /api/v1/users | Time: 1795112347173
+
+Method: GET | URL: /api/v1/users | Time: 1795112358313
+
+Method: GET | URL: /api/v1/users | Time: 1795112699705
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795112724969
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795112802803
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795112813995
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795112841285
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795112853422
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795113004796
+
+Method: GET | URL: /api/v1/users | Time: 1795113021451
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795113042325
+
+Method: GET | URL: /api/v1/users | Time: 1795113085223
+
+Method: GET | URL: /api/v1/users | Time: 1795113291229
+
+Method: GET | URL: /api/v1/users | Time: 1795113363308
+
+Method: GET | URL: /api/v1/users | Time: 1795113393483
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795113997407
+
+Method: POST | URL: /api/v1/user | Time: 1795114007774
+
+Method: POST | URL: /api/v1/users | Time: 1795114009827
+
+Method: POST | URL: /api/v1/users | Time: 1795114017667
+
+Method: POST | URL: /api/v1/users | Time: 1795114042592
+
+Method: POST | URL: /api/v1/users | Time: 1795114060577
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795114101344
+
+Method: GET | URL: /api/v1/users | Time: 1795114123374
+
+Method: GET | URL: /api/v1/users | Time: 1795154336388
+
+Method: POST | URL: /api/v1/users | Time: 1795154439201
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795154463941
+
+Method: GET | URL: /api/v1/users | Time: 1795154502849
+
+Method: GET | URL: /api/v1/users | Time: 1795154675327
+
+Method: GET | URL: /api/v1/usergh | Time: 1795155301620
+
+Method: GET | URL: /api/v1/usergh | Time: 1795155463649
+
+Method: GET | URL: /api/v1/usergh | Time: 1795155489207
+
+Method: GET | URL: /api/v1/users/98 | Time: 1795155500046
+
+Method: GET | URL: / | Time: 1795266248997
+
+Method: GET | URL: /favicon.ico | Time: 1795266250126
+
+Method: GET | URL: / | Time: 1795266955953
+
+Method: GET | URL: /users | Time: 1795266983404
+
+Method: GET | URL: /api/v1/users | Time: 1795267001037
+
+Method: GET | URL: /api/v1/users | Time: 1795267011082
+
+Method: GET | URL: /api/v1/users | Time: 1795267037382
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795267136952
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795267148432
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795267446273
+
+Method: GET | URL: /api/v1/users | Time: 1795267493945
+
+Method: GET | URL: /api/v1/users | Time: 1795267590982
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795267623517
+
+Method: GET | URL: /api/v1/users | Time: 1795267671776
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795267725028
+
+Method: GET | URL: /api/v1/auth/login | Time: 1795267734460
+
+Method: GET | URL: /api/v1/users | Time: 1795267750029
+
+Method: GET | URL: /api/v1/users | Time: 1795267965891
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795268021322
+
+Method: GET | URL: /api/v1/users | Time: 1795268101056
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795268361196
+
+Method: GET | URL: /api/v1/users | Time: 1795268389849
+
+Method: GET | URL: /api/v1/users | Time: 1795268417411
+
+Method: GET | URL: /api/v1/users | Time: 1795268432681
+
+Method: POST | URL: /api/v1/users | Time: 1795268470967
+
+Method: GET | URL: /api/v1/users | Time: 1795268479932
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795268688848
+
+Method: POST | URL: /api/v1/users | Time: 1795268740206
+
+Method: GET | URL: /api/v1/users | Time: 1795268747089
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795268803151
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795268814368
+
+Method: GET | URL: /api/v1/users | Time: 1795268837859
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795270683885
+
+Method: POST | URL: /api/v1/auth/refresh-token | Time: 1795270699259
+
+Method: POST | URL: /api/v1/auth/refresh-token | Time: 1795270731748
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795270751881
+
+Method: POST | URL: /api/v1/auth/refresh-token | Time: 1795270782896
+
+Method: POST | URL: /api/v1/auth/refresh-token | Time: 1795270987792
+
+Method: POST | URL: /api/v1/auth/refresh-token | Time: 1795270991524
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795271293820
+
+Method: GET | URL: /api/v1/users | Time: 1795271432251
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795271461667
+
+Method: POST | URL: /api/v1/auth/refresh-token | Time: 1795271479298
+
+Method: GET | URL: /api/v1/users | Time: 1795271498961
+
+Method: GET | URL: /api/v1/users | Time: 1795271533453
+
+Method: GET | URL: /api/v1/users | Time: 1795271543772
+
+Method: POST | URL: /api/v1/auth/refresh-token | Time: 1795271584843
+
+Method: POST | URL: /api/v1/auth/refresh-token | Time: 1795271620503
+
+Method: POST | URL: /api/v1/auth/refresh-token | Time: 1795271667051
+
+Method: GET | URL: /api/v1/users | Time: 1795271759910
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795271777141
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795271797854
+
+Method: GET | URL: /api/v1/users | Time: 1795271834881
+
+Method: GET | URL: /api/v1/users | Time: 1795271846451
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795272158581
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795272427734
+
+Method: POST | URL: /api/v1/auth/refresh-token | Time: 1795272442760
+
+Method: POST | URL: /api/v1/auth/refresh-token | Time: 1795272740998
+
+Method: POST | URL: /api/v1/auth/refresh-token | Time: 1795272961205
+
+Method: POST | URL: /api/v1/auth/login | Time: 1795272971648
+
+Method: POST | URL: /api/v1/auth/refresh-token | Time: 1795272986793
+
+Method: POST | URL: /api/v1/auth/refresh-token | Time: 1795273087871
+
+Method: POST | URL: /api/v1/auth/refresh-token | Time: 1795273213401
+
+Method: POST | URL: /api/v1/auth/refresh-token | Time: 1795273271826
+
+Method: POST | URL: /api/v1/auth/refresh-token | Time: 1795273348383
+
+Method: POST | URL: /api/v1/auth/refresh-token | Time: 1795273390833
